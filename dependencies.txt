@@ -3,6 +3,7 @@ Dependencies required to run app.py:
 - Python 3.8 or newer
 - pandas
 - matplotlib
+- seaborn
 - scikit-learn
 
 Optional but recommended:
