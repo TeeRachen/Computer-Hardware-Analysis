@@ -1,0 +1,17 @@
+Dependencies required to run app.py:
+
+- Python 3.8 or newer
+- pandas
+- matplotlib
+- scikit-learn
+
+Optional but recommended:
+- numpy (installed automatically as a dependency of pandas and scikit-learn)
+
+Install using pip:
+
+pip install pandas matplotlib scikit-learn
+
+If you want to pin versions, you can use:
+
+pip install pandas matplotlib scikit-learn numpy
