@@ -9,7 +9,7 @@ from sklearn.metrics import r2_score
 # ---------------------------------------------------------
 # 1. Setup & Directory Management
 # ---------------------------------------------------------
-# sns.set_theme(style="darkgrid", palette="muted")
+sns.set_theme(style="darkgrid", palette="muted")
 
 OUTPUT_DIR = 'outputs'
 SUB_DIRS = {
